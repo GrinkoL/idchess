@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/74366128/136165508-af763aae-2d65-4548-90cc-38b8b02fe96d.png)
 ## Решение задачи
 Решение предлагается во фреймворке Tensorflow 2.6 + Keras на основе нейросетевой модели MobileNetV2 предобученной на imagenet (fine-tuning подход).
-Решение реализовано в рамках одного Colab ноутбука idchess_zadanie.ipyn. 
+Решение реализовано в рамках одного Colab ноутбука idchess_zadanie.ipynb. 
 
 При компиляции модели использовалась лосс-функция MES. В качестве метрики использовалась метрика IoU. 
 
